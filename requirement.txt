@@ -1,0 +1,9 @@
+pandas
+numpy 
+matplotlib
+scikit-learn
+flask
+dill
+openpyxl
+imbalanced-learn
+-e .
